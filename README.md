@@ -20,13 +20,7 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/> </a>
 </p>
 
-### 📊 Telemetry Data
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wisd0m1969&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisd0m1969&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 <div align="center">
-  <i>"No Deal Escapes the Eye" — Argos</i>
+  <i>“Knowledge Is Endless To Learn.” (Do It Today!!)</i>
 </div>
